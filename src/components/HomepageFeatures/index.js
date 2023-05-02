@@ -12,7 +12,7 @@ const FeatureList = [
         used to get your website up and running quickly.
       </>
     ),
-    hrefTo: "https://www.darxs.com.cn",
+    hrefTo: "mailto:submit@darxs.cn",
   },
   {
     title: 'Focus on What Matters',
