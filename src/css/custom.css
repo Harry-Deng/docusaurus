@@ -170,13 +170,13 @@ sup {
 }
 
 a {
-  color: #1565c0;
+  /* color: #1565c0; */
   text-decoration: none;
   background-color: transparent
 }
 
 a:hover {
-  color: #0d417b;
+  /* color: #0d417b; */
   text-decoration: underline
 }
 
@@ -494,7 +494,7 @@ mark,.mark {
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  /* color: #e83e8c; */
   word-wrap: break-word
 }
 
@@ -9985,7 +9985,7 @@ h1,h2,h3,h4,h5,h6 {
   margin-top: 1rem;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #313131;
+  /* color: #313131; */
   text-rendering: optimizelegibility;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -10017,25 +10017,25 @@ h4,h5,h6 {
 }
 
 a,h3.article-title a:hover {
-  color: #1565c0;
+  /* color: #1565c0; */
   text-decoration: none;
   transition: color .6s ease
 }
 
 a:hover,a:focus {
-  color: #1565c0
+  /* color: #1565c0 */
 }
 
 .dark a,.dark h3.article-title a:hover {
-  color: #bbdefb
+  /* color: #bbdefb */
 }
 
 .dark a:not(.btn):hover,.dark a:not(.btn):focus {
-  color: #bbdefb
+  /* color: #bbdefb */
 }
 
 pre,code {
-  font-family: roboto mono,monospace
+  font-family: monospace, roboto mono,
 }
 
 pre {
